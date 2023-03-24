@@ -3,11 +3,14 @@ FAST API + YOUTUBE_DL to get googlevideo links using "youtube api js" and "youtu
 
 # Installation
 You need [Python 3](https://www.python.org/downloads/) to run this.
+
 Recomment you to use virtual environment to this shit)
 
 ### Clone the Repository
 `git clone https://github.com/abrorbekuz/youtube_downloader_api.git`
+
 `$ cd youtube_downloader_api/`
+
 Execute `python3 main.py` from your terminal and the api should be running at port `10111`.
 
 ### Usage
